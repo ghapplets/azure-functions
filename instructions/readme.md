@@ -16,7 +16,7 @@ Ensure you have a working GitHub account, and [an Azure account with an active s
 ## Step 1. Fork repository and install Pipelines
 
 1. Log in to your GitHub account
-2. Fork this repository: https://github.com/pierluigi/github-craftwork-azure
+2. Fork this repository: https://github.com/ghapplets/azure-functions
 3. Enable repository `Issues` (under Settings)
 4. Go to [Azure Pipelines · GitHub Marketplace · GitHub](https://github.com/marketplace/azure-pipelines)
 	1. Select the `Free` plan
@@ -25,7 +25,7 @@ Ensure you have a working GitHub account, and [an Azure account with an active s
 	1. Sign into your Azure account
 	2. Create a new Organization for the Pipelines project
 	3. Pick a region close to you
-	4. Name yopur Pipelines project something like `github-craftwork-azure`
+	4. Name yopur Pipelines project something like `ghapplets-azure-functions`
 6. The Azure Pipelines project is now set up and integrated with your GitHub repository.
 	1. Select the repository for creating the new pipeline
 	2. Do not modify the pipeline definition YAML file
