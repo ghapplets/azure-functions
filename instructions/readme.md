@@ -1,6 +1,7 @@
 
-# GitHub Craftwork on Azure – Workshop Instructions
-This README contains the accompanying instructions for the follow-along workshop. Follow the steps below in order to build your first GitHub App, an automated GitHub issue moderator bot, running on Azure Functions and deployed via Azure DevOps Pipelines.
+# Instructions
+
+Follow the steps below in order to deploy a GHApplet that will post an issue comment each time a new issue is opened,  running on Azure Functions and deployed via Azure DevOps Pipelines.
 
 ## Prerequisites
 
