@@ -4,5 +4,5 @@ This repository contains instructions on how to deploy ghapplets to Azure Functi
 
 ### Instructions
 
-Please refer to the [Instructions README](https://github.com/pierluigi/github-craftwork-azure/blob/master/instructions/readme.md)
+Please refer to the [Instructions README](/instructions/readme.md)
 
