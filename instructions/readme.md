@@ -81,7 +81,7 @@ Let's go back to [Azure Pipelines](https://dev.azure.com).
 ![](readme/732755B0-9161-419F-9E22-8B2F608A613E.png)
 
 
-5. Click on “ModerateIssue”
+5. Click on “IssueComment”
 	1. Click on get URL, copy it somewhere 
 	2. Click on get GitHub Secret, copy it somewhere
 	

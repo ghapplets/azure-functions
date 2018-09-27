@@ -1,11 +1,11 @@
 var assert = require("assert");
 
-describe("ModerateIssue", function() {
+describe("issueComment", function() {
   before(function() {
-    moderateIssue = require("../ModerateIssue/index");
+    issueComment = require("../IssueComment/index");
   });
 
-  describe("moderateIssue", function() {
+  describe("IssueComment", function() {
     it("should OK", function() {
       assert.ok(true);
     });
