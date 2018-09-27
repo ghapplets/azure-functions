@@ -1,9 +1,6 @@
-# github-craftwork-azure
+# Azure Functions
 
-⚠️WIP 
-
-
-Create a GitHub App that automatically posts a comment each time an issue is opened, using Azure DevOps Pipelines and Azure Function Apps.
+This repository contains instructions on how to deploy ghapplets to Azure Functions using Azure DevOps Pipelines.
 
 ### Instructions
 
